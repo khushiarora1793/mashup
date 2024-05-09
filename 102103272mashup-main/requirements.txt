@@ -1,0 +1,8 @@
+Flask==3.0.2
+celery==5.3.6
+Flask-Mail==0.9.1
+pytube==15.0.0
+redis==5.0.2
+werkzeug==3.0.1
+pydub==0.25.1
+moviepy==1.0.3
